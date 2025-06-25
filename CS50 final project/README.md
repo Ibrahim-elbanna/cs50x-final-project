@@ -4,6 +4,7 @@
 
 #### Description:
 
+My name is Ibrahim, this is a README for CS50X final project.
 For my final project, I made a Python Pomodoro app. The app idea is mostly inpired by the **"Forest"** app, but a simplified version of it.
 I had to learn tkinter to know how to deal with a GUI, because a text based user interface is not really all this lovely.
 Learning tkinter was tricky, there was no real course I could find from start to end that explained this process.
@@ -29,3 +30,4 @@ the user could have given the option to change EVERYTHING, from the color of the
 The natural color for the program is a close to a off-white shade, and the sound it will make upon time-completion is the standard windows sound from the winsound library, this is something that is planned to be changed soon, given the user the utility to control the sound to what ever he pleases.
 I made this program because I wanted to use it myself, there are plenty of great pomodoro apps on mobile, less great on PC, I though to myself that it would be a perfect oppurtunity to apply my programming language to a goal the will benefit me at last.
 This is the most compound program I have built for now, prehaps later on I will add more functionality for it, because doing it was more than fun, it was a challange.
+I would like to thank CS50 instructors for all the great work they did, not only this course, but the Python course made this program possible.
